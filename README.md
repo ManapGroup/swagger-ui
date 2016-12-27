@@ -1,5 +1,8 @@
 # Swagger UI responsive theme
 
+> **Needs rewrite**  
+> Planned implementation in React
+
 With inspiration from the [Auth0 api explorer](https://auth0.com/docs/apiv2) the original Swagger UI repo is modified to use a responsive layout.
 
 [![Swagger Theme example](dist/images/Swagger_explorer.png)](http://ecs.bobbytech.dk/api)
